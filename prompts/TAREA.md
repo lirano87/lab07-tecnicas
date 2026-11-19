@@ -254,7 +254,7 @@ Los 18 casos de prueba incluyen entradas, resultados esperados y situaciones lí
 | Realiza revision final de limitaciones | Si |
 | Compila y ejecuta el codigo | No |
 
-## ¿Por que elegi estas tecnicas?
+## ¿Por qué elegí estas técnicas?
 
 Elegi estas tecnicas porque permiten obtener respuestas mas organizadas, precisas y faciles de verificar al revisar codigo Java.
 
