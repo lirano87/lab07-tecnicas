@@ -77,8 +77,8 @@ Revisa tu tabla: faltan casos límite como campos vacíos, correo sin @ o contra
 
 ### Evidencia de autocritica
 
-![Tabla de casos de prueba despues de la autocritica](../evidencias/ejercicio6-autocritica.png)
+![Tabla de casos de prueba despues de la autocritica](../Evidencias/ejercicio6-autocritica.png)
 
-![Tabla de casos de prueba despues de la autocritica](../evidencias/ejercicio6-autocritica2.png)
+![Tabla de casos de prueba despues de la autocritica](../Evidencias/ejercicio6-autocritica2.png)
 
 
